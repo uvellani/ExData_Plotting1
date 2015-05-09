@@ -1,5 +1,5 @@
 plot4  <- function() {
-        #This function plots plot3
+        #This function plots plot4
         #packages lubridate and sqldf must be installed to run this
         
         #check for the test data file in the current directory

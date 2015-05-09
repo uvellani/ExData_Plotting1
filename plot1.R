@@ -1,5 +1,5 @@
 plot1  <- function() {
-        #This function plots the histogram of power Global Active Power
+        #This function plots plot1
         #packages lubridate and sqldf must be installed to run this
         
         #check for the test data file in the current directory
